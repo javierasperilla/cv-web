@@ -12,7 +12,7 @@
         </div>
         <div class="uk-navbar-right">
           <ul class="uk-navbar-nav uk-visible@m">
-            <router-link to="/" tag="li" active-class="uk-active" exact><a class="menu-link" v-if="selectedLanguage == 'english'">Resume</a><a v-if="selectedLanguage == 'spanish'">Curriculum</a></router-link>            <li class="uk-active">
+            <router-link to="/" tag="li" active-class="uk-active" exact><a style="color:white;" class="menu-link" v-if="selectedLanguage == 'english'">Resume</a><a v-if="selectedLanguage == 'spanish'">Curriculum</a></router-link>            <li class="uk-active">
               <a href="#" v-if="selectedLanguage == 'english'">Language</a>
               <a href="#" v-if="selectedLanguage == 'spanish'">Idiomas</a>
               <div class="uk-navbar-dropdown">
@@ -94,7 +94,8 @@ export default {
   }
 
   .navbar-background {
-    background-color: #EEF1EF;
+    background-image: url('../../assets/screen.png');
+    background-position: center;
   }
 
   .uk-offcanvas-bar {
