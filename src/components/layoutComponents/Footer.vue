@@ -2,10 +2,9 @@
   <footer>
     <div class="uk-container-expand footer">
       <div class="uk-container wrapper">
-        @2017 Adrian Saiz
+        @2019 Javier Asperilla
         <div class="right-icons">
-          <a href="https://github.com/SaizFerri?tab=repositories"><i class="fa fa-github" area-hidden="true"></i></a>
-          <a href="https://www.linkedin.com/in/adrian-saiz-ferri-268989137"><i class="fa fa-linkedin" area-hidden="true"></i></a>
+          <a href="https://www.linkedin.com/in/javierasperilla/?locale=es_ES"><i class="fa fa-linkedin" area-hidden="true"></i></a>
         </div>
       </div>
     </div>

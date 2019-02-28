@@ -12,55 +12,71 @@ export default {
       workExperience: [
         {
           id: 1,
-          years: '05/2017 - present',
-          description: 'Frontend developer by click Solutions GmbH',
+          years: '11/2018 - Ongoing',
+          description: 'Senior Research technician at London BioScience Innovation Centre. (Fabrican Ltd). London (UK)',
           detail: [
-            {
-              task: 'Developing the front-end side of web applications with Javascript'
-            },
-            {
-              task: 'Using Foundation as CSS framework'
-            },
-            {
-              task: 'Developing newsletters with Foundation emails'
-            }
           ]
         },
         {
           id: 2,
-          years: '11/2015 - 04/2017',
-          description: 'Front Office Manager at the EasyHotel Berlin',
+          years: '10/2017 - 11/2018',
+          description: 'Research technician at London BioScience Innovation Centre. (Fabrican Ltd). London (UK)',
           detail: [
             {
-              task: 'Responsible for the reception at the hotel'
+              task: 'Working close with the Creative Director, driving projects, marketing projects, meetings, and discussions with the client\'s meetings, either by teleconference or face-to-face.'
             },
             {
-              task: 'Managing incoming bookings'
+              task: 'Able writing technical client reports and working closely when building products with companies. Innovating and developing new ©Spray-on fabric techniques and new equipment'
+            },
+            {
+              task: 'Developing on fashion, automotive, cosmetic, health-care and sportswear technology with no-woven fabrics. Can-do attitude on multi-functional formulations, incorporating a wide range of functional additives like colours and dyes, nanocomposites, UV Polymers, Biopolymers, luxury, textile, glow in the dark as well as many others.'
+            },
+            {
+              task: 'Expertise in Managing laboratory equipment, formulations, spray guns or aerosol filler, compressors, hand tools, handicraft like dipping process as well as many others.'
+            },
+            {
+              task: 'Training laboratory Technicians, performing laboratory experiments and bringing a innovate & dynamic mentoring environment, to inspire the technicians along, as well as an improvement at the company\'s safety environment.'
+            },
+            {
+              task: 'Testing and data interpretation about mechanical and thermal properties of samples at Imperial College London (The start-up company was based at the Department of Chemical Engineering, Imperial College).'
+            },
+            {
+              task: 'Multi-functional skills inside of the company, like review safety practices like MSDS, ability to communicate technical concepts as a combination of simplicity & perfection and marketing vision in Research and Development projects.'
             }
           ]
         },
         {
           id: 3,
-          years: '05/2015 - 07/2015',
-          description: 'German-Spanish translator for internet websites',
-          detail: ''
+          years: '08/2016 - 10/2017',
+          description: 'LUPITA Central Restaurant (Hospitality) at CALITA LIMITED. London (UK)',
+          detail: [
+            {
+              task: 'I joined a Mexican Restaurant at the heart of London, wherein always confluence a mixed of stressful and attractive atmosphere, thanks to the multicultural ambient around Lupita, provide me an enormous knowledge about teamwork mentality under constant pressure, being successful in my role with a ready smile and friendly manners.'
+            }
+          ]
+        },
+        {
+          id: 4,
+          years: '08/2015 - 08/2016',
+          description: 'Researcher (External Practices / Final project) at Spanish National Research Council (C.S.I.C). Madrid, Spain',
+          detail: [
+            {
+              task: 'One year of experience actively studying the electrospinning process & material characterization of the electrospun fibers (PCL, PLA, PHB, OLA) with nanocomposites (Titanium and Silica) '
+            },
+            {
+              task: 'Skills to handle the mechanical, optical and chemical test of the materials. Knowledge in laboratory techniques (Mechanical test, DSC, TGA, rheology) and on polymer science.'
+            },
+            {
+              task: 'This project was developed as part of a team. Nevertheless, it gave me the opportunity to learn how to manage my own research, always aiming to accomplish team goals.'
+            }
+          ]
         }
       ],
       educationalBackground: [
         {
           id: 1,
-          years: '04/2016 - present',
-          description: 'Currently studying Applied Informatics at the „University of applied sciences “, Berlin'
-        },
-        {
-          id: 2,
-          years: '10/2015 - 03/2016',
-          description: 'Computer engineering at the „University of applied sciences “, Berlin'
-        },
-        {
-          id: 3,
-          years: '09/2012 - 05/2015',
-          description: 'High school “Friedensburg Oberschule” (Berlin State bilingual High school German-Spanish)'
+          years: '09/2010 - 07/2017',
+          description: 'University Degree, Material Engineering at Rey Juan Carlos University Madrid (Spain)'
         }
       ],
       languages: [
@@ -71,30 +87,30 @@ export default {
         },
         {
           id: 2,
-          language: 'German',
+          language: 'English',
           skill: 'Fluent written and spoken'
         },
         {
           id: 3,
-          language: 'English',
-          skill: 'Fluent written and spoken'
+          language: 'Italian',
+          skill: 'Begineer written and spoken'
         }
       ],
       programmingSkills: [
         {
           id: 1,
           label: 'Frontend',
-          languages: 'Html, CSS, Javascript, Vue, Vuex, Bootstrap, jQuery, Less, Sass'
+          languages: 'LaTeX, Python, Javascript'
         },
         {
           id: 2,
-          label: 'Backend',
-          languages: 'Java, PHP'
+          label: 'Informatic Programs',
+          languages: 'CES Edupack, AutoCad, Origin, Office'
         },
         {
           id: 3,
-          label: 'Other',
-          languages: 'Linux, Git, MySQL, Postgresql, npm, Bower, Grunt, Gulp, JSON'
+          label: 'Strengths',
+          languages: 'Teamwork, Hard-Working, Fast learning, Leadership, Innovation, Creativity, Simplicity, Programing, Tool Handling'
         }
       ]
     },
@@ -108,55 +124,74 @@ export default {
       workExperience: [
         {
           id: 1,
-          years: '05/2017 - actual',
-          description: 'Desarrollador de Frontend en click Solutions GmbH',
+          years: '11/2018 - Ongoing',
+          description: 'Autónomo (Técnico Superior de Investigación en London BioScience Innovation Centre. (Fabrican Ltd). Londres (GB)',
           detail: [
-            {
-              task: 'Desarrollador de aplicaciones web con JavaScript'
-            },
-            {
-              task: 'Uso de Foundation como Framework para CSS'
-            },
-            {
-              task: 'Desarrollador de Newsletter con Foundation Emails'
-            }
           ]
         },
         {
           id: 2,
-          years: '11/2015 - 04/2017',
-          description: 'Manager de la recepcion en EasyHotel Berlin',
+          years: '10/2017 - 11/2018',
+          description: 'Autónomo (Técnico de Investigación en London BioScience Innovation Centre. (Fabrican Ltd). Londres (GB)',
           detail: [
             {
-              task: 'Responsable de la recepcion en el hotel'
+              task: 'Trabajar de cerca con el Director Creativo, impulsar proyectos de investigación y desarrollo, papel imporante en reuniones y discusiones con clientes, ya sea por teleconferencia o cara a cara.'
             },
             {
-              task: 'Administrar las reservas'
+              task: 'Capaz de redactar informes técnicos de clientes, además de trabajar estrechamente en la fabricación y construcción de productos con empresas. Desarrollando nuevas técnicas de tejidos \faCopyright Spray-on, mejorando las propiedades de los materiales, así como un abaratamiento significativo del producto final.'
+            },
+            {
+              task: 'La innovadora tecnología de telas no tejidas desarrollada en Fabrican es implantada en numerosos sectores del mercado, moda, automovilismo, cosmética, salud, ropa deportiva o medio ambiente entre muchos otros. '
+            },
+            {
+              task: 'Responsable del laboratorio, proporcionando un entrenamiento de seguridad al personal. Experiencia en el manejo y mantenimiento de equipos de laboratorio, formulaciones, pistolas rociadoras, llenadores de aerosol, compresores, herramientas de mano o procesos de inmersión. Las formulaciones incorporan una amplia gama de aditivos funcionales como colores y tintes, nanocompuestos, polímeros UV, biopolímeros, metales preciosos, textiles, resplandor en la oscuridad.'
+            },
+            {
+              task: 'Encargado de realizar pruebas e interpretación de datos sobre las propiedades mecánicas y térmicas de las muestras requeridas por empresas en el Imperial College de Londres, siguiendo regulaciones y normativas especificadas por clientes. Start-up company Fabrican tenía su sede en el Departamento de Ingeniería Química, Imperial College.'
+            },
+            {
+              task: 'Habilidades multifuncionales dentro de la empresa, como revisar prácticas de seguridad como MSDS, capacidad para comunicar conceptos técnicos a personal no técnico, ayudando a la visión de marketing en proyectos de Investigación y Desarrollo.'
             }
           ]
         },
         {
           id: 3,
-          years: '05/2015 - 07/2015',
-          description: 'Traductor aleman-español para paginas web',
-          detail: ''
+          years: '08/2016 - 10/2017',
+          description: 'LUPITA Central Restaurante (Restauración) en CALITA LIMITED. Londres (GB)',
+          detail: [
+            {
+              task: 'Me uní a un restaurante mexicano en el corazón de Londres, en el que siempre confluyo una mezcla de atmósfera estresante a la vez que atractiva. Gracias al ambiente multicultural que rodea a Lupita, me proporcionó un enorme conocimiento sobre la mentalidad del trabajo en equipo bajo presión constante, siendo exitoso en mi rol siempre con una sonrisa y buenos modales.'
+            }
+          ]
+        },
+        {
+          id: 4,
+          years: '08/2015 - 08/2016',
+          description: 'Investigador (Prácticas Externas / Trabajo fin de grado) en el Consejo Superior de Investigaciones Científicas (C.S.I.C). Madrid, España',
+          detail: [
+            {
+              task: 'Un año de experiencia estudiando activamente el proceso de electrospinning y la caracterización de materiales de fibras electrohiladas (PCL, PLA, PHB, OLA) con nanocompuestos (Titanio and Sílice) '
+            },
+            {
+              task: 'Capaz de redactar informes técnicos para diferentes tipos de proyectos.'
+            },
+            {
+              task: 'Entrenamiento y disciplina en laboratorios y equipos de laboratorio.'
+            },
+            {
+              task: 'Habilidades para manejar el ensayo mecánico, óptico y químico de los materiales. Conocimientos en técnicas de laboratorio (Ensayos mecánicos, DSC, TGA, reología) y en ciencia de polímeros.'
+            },
+            {
+              task: 'Este proyecto fue desarrollado como parte de un equipo. Sin embargo, me dio la oportunidad de aprender a administrar mi propia investigación, siempre con el objetivo de lograr los objetivos del equipo.'
+            }
+          ]
         }
       ],
       educationalBackground: [
         {
           id: 1,
-          years: '04/2016 - actual',
-          description: 'Estudiando informatica aplicada (Software Engineering) en la "Universidad de Ciencias Aplicadas" en Berlin'
-        },
-        {
-          id: 2,
-          years: '10/2015 - 03/2016',
-          description: 'Ingenieria del Hardware en la "Universidad de Ciencias Aplicadas" en Berlin'
-        },
-        {
-          id: 3,
-          years: '09/2012 - 05/2015',
-          description: 'Bachillerato y selectividad en “Friedensburg Oberschule” (Escuela estatal bilingüe de Berlin español-aleman)'
+          years: '09/2010 - 07/2017',
+          description: 'Grado en Ingeniería de los Materiales en Universidad Rey Juan Carlos, Madrid (España)'
         }
       ],
       languages: [
@@ -167,30 +202,30 @@ export default {
         },
         {
           id: 2,
-          language: 'Aleman',
-          skill: 'Fluido escrito y hablado'
+          language: 'Inglés',
+          skill: 'Avanzado'
         },
         {
           id: 3,
-          language: 'Ingles',
-          skill: 'Fluido escrito y hablado'
+          language: 'Italiano',
+          skill: 'Básico'
         }
       ],
       programmingSkills: [
         {
           id: 1,
           label: 'Frontend',
-          languages: 'Html, CSS, Javascript, Vue, Vuex, Bootstrap, jQuery, Less, Sass'
+          languages: 'LaTeX, Python, Javascript'
         },
         {
           id: 2,
-          label: 'Backend',
-          languages: 'Java, PHP'
+          label: 'Programas Informáticos',
+          languages: 'CES Edupack, AutoCad, Origin, Office'
         },
         {
           id: 3,
-          label: 'Otros',
-          languages: 'Linux, Git, MySQL, Postgresql, npm, Bower, Grunt, Gulp, JSON'
+          label: 'Cualidades',
+          languages: 'Trabajo en Equipo, Trabajador, Aprendizaje rápido, Liderazgo, Innovación, Creatividad, Simplicidad, Programación, Manejo de herramientas'
         }
       ]
     }
