@@ -7,20 +7,20 @@ export default {
         work: 'Work Experience',
         education: 'Educational Background',
         languages: 'Languages',
-        skills: 'Programming Skills'
+        skills: 'Skills & Hobbies'
       },
       workExperience: [
         {
           id: 1,
           years: '11/2018 - Ongoing',
-          description: 'Senior Research technician at London BioScience Innovation Centre. (Fabrican Ltd). London (UK)',
+          description: 'Freelance (Head of the laboratory) at London BioScience Innovation Centre. (Fabrican Ltd). London (UK)',
           detail: [
           ]
         },
         {
           id: 2,
           years: '10/2017 - 11/2018',
-          description: 'Research technician at London BioScience Innovation Centre. (Fabrican Ltd). London (UK)',
+          description: 'Freelance (Research technician) at London BioScience Innovation Centre. (Fabrican Ltd). London (UK)',
           detail: [
             {
               task: 'Working close with the Creative Director, driving projects, marketing projects, meetings, and discussions with the client\'s meetings, either by teleconference or face-to-face.'
@@ -99,7 +99,7 @@ export default {
       programmingSkills: [
         {
           id: 1,
-          label: 'Frontend',
+          label: 'Programming Languages',
           languages: 'LaTeX, Python, Javascript'
         },
         {
@@ -111,6 +111,11 @@ export default {
           id: 3,
           label: 'Strengths',
           languages: 'Teamwork, Hard-Working, Fast learning, Leadership, Innovation, Creativity, Simplicity, Programing, Tool Handling'
+        },
+        {
+          id: 4,
+          label: 'Hobbies',
+          languages: 'Cycling every day it is a really often meditation times, as well as I healthy life for everyone and a plus for our environment. Boxing and meditate are some of my sporty hobbies; as a good laboratory technician mixing and measuring formulations, cooking it is my healthy and enjoyable laboratory at home; social life it is also a good way to feel good everywhere I live. '
         }
       ]
     },
@@ -119,20 +124,20 @@ export default {
         work: 'Experiencia laboral',
         education: 'Educacion',
         languages: 'Idiomas',
-        skills: 'Habilidades'
+        skills: 'Habilidades y Aficiones'
       },
       workExperience: [
         {
           id: 1,
           years: '11/2018 - Ongoing',
-          description: 'Autónomo (Técnico Superior de Investigación en London BioScience Innovation Centre. (Fabrican Ltd). Londres (GB)',
+          description: 'Autónomo (Jefe Técnico de Investigación en London BioScience Innovation Centre. (Fabrican Ltd). Londres (GB)',
           detail: [
           ]
         },
         {
           id: 2,
           years: '10/2017 - 11/2018',
-          description: 'Autónomo (Técnico de Investigación en London BioScience Innovation Centre. (Fabrican Ltd). Londres (GB)',
+          description: 'Autónomo (Técnico de Investigación) en London BioScience Innovation Centre. (Fabrican Ltd). Londres (GB)',
           detail: [
             {
               task: 'Trabajar de cerca con el Director Creativo, impulsar proyectos de investigación y desarrollo, papel imporante en reuniones y discusiones con clientes, ya sea por teleconferencia o cara a cara.'
@@ -214,7 +219,7 @@ export default {
       programmingSkills: [
         {
           id: 1,
-          label: 'Frontend',
+          label: 'Lenguajes de Programación',
           languages: 'LaTeX, Python, Javascript'
         },
         {
@@ -226,6 +231,11 @@ export default {
           id: 3,
           label: 'Cualidades',
           languages: 'Trabajo en Equipo, Trabajador, Aprendizaje rápido, Liderazgo, Innovación, Creatividad, Simplicidad, Programación, Manejo de herramientas'
+        },
+        {
+          id: 4,
+          label: 'Aficiones',
+          languages: 'Montar en bicicleta todos los días suele ser momento de meditación a lo largo del día, así como una mentalidad de vida saludable para todos y ventaja para nuestro entorno; boxear y meditar son algunas de mis aficiones deportivas; como buen técnico de laboratorio que mezcla y prepara distintas formulaciones, cocinar es mi momento en casa para poder preparar una comida variada y saludable; La vida social también es una buena manera de disfrutar de mi día a día en todos los lugares donde vivo.'
         }
       ]
     }
