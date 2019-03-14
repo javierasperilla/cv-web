@@ -7,7 +7,7 @@ export default {
         work: 'Work Experience',
         education: 'Educational Background',
         languages: 'Languages',
-        skills: 'Skills & Hobbies'
+        skills: 'Skills and Hobbies'
       },
       workExperience: [
         {
@@ -32,16 +32,16 @@ export default {
               task: 'Developing on fashion, automotive, cosmetic, health-care and sportswear technology with no-woven fabrics. Can-do attitude on multi-functional formulations, incorporating a wide range of functional additives like colours and dyes, nanocomposites, UV Polymers, Biopolymers, luxury, textile, glow in the dark as well as many others.'
             },
             {
-              task: 'Expertise in Managing laboratory equipment, formulations, spray guns or aerosol filler, compressors, hand tools, handicraft like dipping process as well as many others.'
+              task: 'Expertise in managing laboratory equipment, formulations, spray guns or aerosol filler, compressors, hand tools, handicraft like dipping process as well as many others.'
             },
             {
-              task: 'Training laboratory Technicians, performing laboratory experiments and bringing a innovate & dynamic mentoring environment, to inspire the technicians along, as well as an improvement at the company\'s safety environment.'
+              task: 'Training laboratory Technicians, performing laboratory experiments, bringing an innovate and dynamic mentoring environment, as well as an improvement at the company\'s safety environment.'
             },
             {
               task: 'Testing and data interpretation about mechanical and thermal properties of samples at Imperial College London (The start-up company was based at the Department of Chemical Engineering, Imperial College).'
             },
             {
-              task: 'Multi-functional skills inside of the company, like review safety practices like MSDS, ability to communicate technical concepts as a combination of simplicity & perfection and marketing vision in Research and Development projects.'
+              task: 'Multi-functional skills inside of the company, like review safety practices like MSDS, ability to communicate technical concepts to non-technical personnel, as well as suporting marketing vision in Research and Development projects.'
             }
           ]
         },
@@ -51,7 +51,7 @@ export default {
           description: 'LUPITA Central Restaurant (Hospitality) at CALITA LIMITED. London (UK)',
           detail: [
             {
-              task: 'I joined a Mexican Restaurant at the heart of London, wherein always confluence a mixed of stressful and attractive atmosphere, thanks to the multicultural ambient around Lupita, provide me an enormous knowledge about teamwork mentality under constant pressure, being successful in my role with a ready smile and friendly manners.'
+              task: 'I joined a Mexican Restaurant at the heart of London, wherein always confluence a mixed of stressful and attractive atmosphere. Thanks to the multicultural ambient around Lupita, it provided me an enormous knowledge about teamwork mentality under constant pressure, being successful in my role with a ready smile and friendly manners.'
             }
           ]
         },
@@ -61,10 +61,10 @@ export default {
           description: 'Researcher (External Practices / Final project) at Spanish National Research Council (C.S.I.C). Madrid, Spain',
           detail: [
             {
-              task: 'One year of experience actively studying the electrospinning process & material characterization of the electrospun fibers (PCL, PLA, PHB, OLA) with nanocomposites (Titanium and Silica) '
+              task: 'One year of experience actively studying the electrospinning process and material characterization of the electrospun fibers (PCL, PLA, PHB, OLA) with nanocomposites (Titanium and Silica) '
             },
             {
-              task: 'Skills to handle the mechanical, optical and chemical test of the materials. Knowledge in laboratory techniques (Mechanical test, DSC, TGA, rheology) and on polymer science.'
+              task: 'Skills to handle the mechanical, optical and chemical test of the materials. Knowledge in laboratory techniques (mechanical tests, DSC, TGA, rheology) and in polymer science.'
             },
             {
               task: 'This project was developed as part of a team. Nevertheless, it gave me the opportunity to learn how to manage my own research, always aiming to accomplish team goals.'
@@ -83,7 +83,7 @@ export default {
         {
           id: 1,
           language: 'Spanish',
-          skill: 'Mother Tonge'
+          skill: 'Mother tongue'
         },
         {
           id: 2,
@@ -93,7 +93,7 @@ export default {
         {
           id: 3,
           language: 'Italian',
-          skill: 'Begineer written and spoken'
+          skill: 'Basic written and spoken'
         }
       ],
       programmingSkills: [
@@ -104,7 +104,7 @@ export default {
         },
         {
           id: 2,
-          label: 'Informatic Programs',
+          label: 'PC Skills',
           languages: 'CES Edupack, AutoCad, Origin, Office'
         },
         {
@@ -115,7 +115,7 @@ export default {
         {
           id: 4,
           label: 'Hobbies',
-          languages: 'Cycling every day it is a really often meditation times, as well as I healthy life for everyone and a plus for our environment. Boxing and meditate are some of my sporty hobbies; as a good laboratory technician mixing and measuring formulations, cooking it is my healthy and enjoyable laboratory at home; social life it is also a good way to feel good everywhere I live. '
+          languages: 'Cycling every time is often really a meditation times, as well as a healthy life for everyone and a plus for our environment. Boxing and meditating are some of my sporty hobbies; as a good laboratory technician mixing and measuring formulations, cooking is my healthy and enjoyable laboratory at home; social life is also a good way to feel good everywhere I live. '
         }
       ]
     },
@@ -224,7 +224,7 @@ export default {
         },
         {
           id: 2,
-          label: 'Programas Informáticos',
+          label: 'Habilidades PC',
           languages: 'CES Edupack, AutoCad, Origin, Office'
         },
         {
