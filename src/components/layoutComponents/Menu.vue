@@ -100,11 +100,12 @@ export default {
   .navigation .uk-active a {
     color: #000;
   }
-
+  
   .navbar-background {
-    background-image: url('../../assets/screen.png');
+    background-image: url('../../assets/screen.png') ;
     background-position: right;
-    background-size: 57%;
+    background-size: 100%;
+  
   }
 
   .navigation__language a {

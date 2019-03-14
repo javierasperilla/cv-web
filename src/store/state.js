@@ -12,7 +12,7 @@ export default {
       workExperience: [
         {
           id: 1,
-          years: '11/2018 - Ongoing',
+          years: '11/2018 - 03/2019',
           description: 'Freelance (Head of the laboratory) at London BioScience Innovation Centre. (Fabrican Ltd). London (UK)',
           detail: [
           ]
@@ -129,7 +129,7 @@ export default {
       workExperience: [
         {
           id: 1,
-          years: '11/2018 - Ongoing',
+          years: '11/2018 - 03/2019',
           description: 'Autónomo (Jefe Técnico de Investigación en London BioScience Innovation Centre. (Fabrican Ltd). Londres (GB)',
           detail: [
           ]

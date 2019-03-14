@@ -2,7 +2,7 @@
   <footer>
     <div class="uk-container-expand footer">
       <div class="uk-container wrapper">
-        @2019 Javier Asperilla
+        @2019 Adrian Saiz - Javier Asperilla
         <div class="right-icons">
           <a href="https://www.linkedin.com/in/javierasperilla/?locale=es_ES"><i class="fa fa-linkedin" area-hidden="true"></i></a>
         </div>
@@ -19,7 +19,7 @@ export default {
 
 <style scoped>
   .footer {
-    background-color: #eef1ef;
+    background-color: #373F51;
   }
   .wrapper {
     padding: 5px;
@@ -29,9 +29,9 @@ export default {
   }
   .right-icons i {
     padding: 0 10px 0 0;
-    color: black;
+    color: white;
   }
   .right-icons i:hover {
-    color: grey;
+    color: white;
   }
 </style>
