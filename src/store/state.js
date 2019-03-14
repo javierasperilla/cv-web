@@ -13,7 +13,7 @@ export default {
         {
           id: 1,
           years: '11/2018 - 03/2019',
-          description: 'Freelance (Head of the laboratory) at London BioScience Innovation Centre. (Fabrican Ltd). London (UK)',
+          description: 'Freelance (Head of the laboratory - Consultant) at London BioScience Innovation Centre. (Fabrican Ltd). London (UK)',
           detail: [
           ]
         },
@@ -26,7 +26,7 @@ export default {
               task: 'Working close with the Creative Director, driving projects, marketing projects, meetings, and discussions with the client\'s meetings, either by teleconference or face-to-face.'
             },
             {
-              task: 'Able writing technical client reports and working closely when building products with companies. Innovating and developing new ©Spray-on fabric techniques and new equipment'
+              task: 'Able writting technical client reports and working closely when building products with companies. Innovating and developing new ©Spray-on fabric techniques and new equipment'
             },
             {
               task: 'Developing on fashion, automotive, cosmetic, health-care and sportswear technology with no-woven fabrics. Can-do attitude on multi-functional formulations, incorporating a wide range of functional additives like colours and dyes, nanocomposites, UV Polymers, Biopolymers, luxury, textile, glow in the dark as well as many others.'
@@ -35,7 +35,7 @@ export default {
               task: 'Expertise in managing laboratory equipment, formulations, spray guns or aerosol filler, compressors, hand tools, handicraft like dipping process as well as many others.'
             },
             {
-              task: 'Training laboratory Technicians, performing laboratory experiments, bringing an innovate and dynamic mentoring environment, as well as an improvement at the company\'s safety environment.'
+              task: 'Training laboratory technicians, performing laboratory experiments, bringing an innovate and dynamic mentoring environment, as well as an improvement at the company\'s safety environment.'
             },
             {
               task: 'Testing and data interpretation about mechanical and thermal properties of samples at Imperial College London (The start-up company was based at the Department of Chemical Engineering, Imperial College).'
@@ -115,7 +115,7 @@ export default {
         {
           id: 4,
           label: 'Hobbies',
-          languages: 'Cycling every time is often really a meditation times, as well as a healthy life for everyone and a plus for our environment. Boxing and meditating are some of my sporty hobbies; as a good laboratory technician mixing and measuring formulations, cooking is my healthy and enjoyable laboratory at home; social life is also a good way to feel good everywhere I live. '
+          languages: 'Cycling is really often a meditation time, as well as a healthy life for everyone and a plus for our environment. Boxing and meditating are some of my sporty hobbies; as a good laboratory technician mixing and measuring formulations, cooking is my healthy and enjoyable laboratory at home; social life is also a good way to feel good everywhere I live. '
         }
       ]
     },
